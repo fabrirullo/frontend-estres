@@ -9,3 +9,9 @@ Este proyecto es un dashboard de bienestar emocional diseñado para ayudar a las
 Inhalar durante 4 segundos.
 Sostener la respiración durante 4 segundos.
 Exhalar lentamente durante 6 segundos.
+
+## Tecnologías utilizadas
+React: El framework principal para la creación de la interfaz de usuario.
+Chart.js: Biblioteca utilizada para crear el gráfico de línea interactivo.
+Axios: Utilizado para hacer peticiones HTTP al backend que simula la evaluación del nivel de estrés.
+CSS: Para los estilos personalizados de los componentes.
